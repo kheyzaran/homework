@@ -55,4 +55,7 @@ li {
 }
 .link {
   text-align: center;
+  padding-left: 0 auto;
+  margin: 0 auto;
+  display: block;
 }
